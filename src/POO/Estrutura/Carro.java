@@ -1,4 +1,4 @@
-package POO;
+package POO.Estrutura;
 
 import java.lang.reflect.Constructor;
 

@@ -1,4 +1,6 @@
-package POO;
+package POO.Estrutura;
+
+import POO.Estrutura.Carro;
 
 public class Main {
     public static void main(String[] args) {
