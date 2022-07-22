@@ -1,6 +1,6 @@
 package Projeto_BancoDigital;
 
-public  abstract class Conta implements OperacoesBancarias {
+public  abstract class Conta implements OperacoesBancarias {// classe abstrata ou seja o usario não vai poder dar new
     private  static  int AGENCIA_PADRAO = 1;
     private static int SEQUENCIAL = 1;
     protected int agencia;
